@@ -2,6 +2,8 @@
 
 Le but de ce projet est de créer un wireframe qui sert de fondation solide pour le développement d’un site web interactif et engageant dédié à l’univers Naruto.
 
+![capture d'écran](readme.PNG)
+
 **Contexte du projet**
 
 En tant que dev web, le faireEn tant que développeur web et web mobile, avec un outil qui permet de développer des wireframe (figma, drawio, canva, wireflow) vous devrait réaliser le wireframe d'un site internet en 4 pages version desktop et mobile.
